@@ -1,1 +1,1 @@
-# enterprise-only-chat
+# Enterprise Only Chat
